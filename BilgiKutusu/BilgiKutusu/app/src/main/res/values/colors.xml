@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#31B0D5</color>
+    <color name="colorPrimaryDark">#31B0D5</color>
+    <color name="colorAccent">#E74C3C</color>
+    <color name="colorStart">#3498DB</color>
+    <color name="btn1_renk">#E74C3C</color>
+    <color name="btn2_renk">#3498DB</color>
+    <color name="btn3_renk">#F2CF66</color>
+    <color name="btn4_renk">#82BF56</color>
+
+</resources>

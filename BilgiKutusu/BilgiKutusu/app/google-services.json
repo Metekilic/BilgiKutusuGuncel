@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773269909658",
+    "firebase_url": "https://bilgikutusu-2bedd.firebaseio.com",
+    "project_id": "bilgikutusu-2bedd",
+    "storage_bucket": "bilgikutusu-2bedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773269909658:android:6f2225f8a1006d9959af23",
+        "android_client_info": {
+          "package_name": "com.example.bilgikutusu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773269909658-eh1agujcvi0c1md3f167ovjd1qthjil3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEH-zsH6ROcJwdjRW0IUUyiODqNFK9DQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773269909658-eh1agujcvi0c1md3f167ovjd1qthjil3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
